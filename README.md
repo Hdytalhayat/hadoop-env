@@ -7,7 +7,7 @@ Installation
 3. Download File fixing diatas. Ekstrak dan copy replace ke dalam folder hadoop-3.2.1
 
 Atur Path
-link : https://drive.google.com/file/d/17MSfauDik_3hmqOndhmj2sD_ZvNZpzup/view?usp=sharing
+https://drive.google.com/file/d/17MSfauDik_3hmqOndhmj2sD_ZvNZpzup/view?usp=sharing
 
 Running
 1. buka cmd
