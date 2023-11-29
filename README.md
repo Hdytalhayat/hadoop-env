@@ -8,3 +8,9 @@ Installation
 
 Atur Path
 link : https://drive.google.com/file/d/17MSfauDik_3hmqOndhmj2sD_ZvNZpzup/view?usp=sharing
+
+Running
+1. buka cmd
+2. ketik hdfs namenode -format
+3. cd ke hadoop-3.2.1/sbin
+4. ketik start-all.cmd
